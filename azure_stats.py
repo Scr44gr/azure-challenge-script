@@ -1,7 +1,6 @@
 __author__ = 'Scr44gr'
 from requests import get
 from typing import Dict, List
-from sys import stdout
 
 UUID : str = "2cceec57-42f9-4350-8b82-1fc4fe0034fa"
 URL : str = f"https://docs.microsoft.com/api/challenges/{UUID}/leaderboard"
